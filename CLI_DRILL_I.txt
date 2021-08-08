@@ -1,0 +1,22 @@
+#Question 1:-
+mkdir -p hello/{five/six/seven,one/two/three/four}
+touch hello/five/six/c.txt hello/five/six/seven/error.log hello/one/a.txt hello/one/b.txt hello/one/two/d.txt hello/one/two/three/e.txt hello/one/two/three/four/access.log
+
+#Question 2:-
+find . -type f -name "*.log" | xargs rm
+
+#Question 3:-
+cd hello/one
+nano a.txt
+
+#Question 4:-
+cd hello
+rm -R five
+
+#Question 5:-
+cd hello
+mv one uno
+
+#Question 6:-
+cd hello/uno
+mv a.txt two
