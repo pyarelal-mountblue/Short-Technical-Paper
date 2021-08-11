@@ -1,6 +1,6 @@
 # **OSI LAYERS**
 
-## **` OSI Model :-`**  
+## **` OSI Model:-`**  
 
 <br>
 
@@ -9,8 +9,7 @@
 * OSI Model is a reference model that describes how the information from software/ browser applications in one computer/ system moves through a physical medium to the software application in another computer.
 * OSI Model consists of seven layers, which are given below:-
 <br>
-
-    ![](https://images.idgesg.net/images/article/2017/12/osimodel-100743439-large.jpg "OSI Layers")
+    ![](https://cdn.educba.com/academy/wp-content/uploads/2019/07/OSI-Model.png "OSI Layers")
 
 <br>
 <br>
@@ -28,9 +27,9 @@
 
    <br>
 
-    *  ###  `Some functions of a Physical Layer are given below :-`
-        * **Data Transmission :-** 
-            > It defines the transmission mode between two devices on the network whether it is half-duplex, full-duplex or simplex.
+    *  ###  `Some functions of a Physical Layer are given below:-`
+        * **Data Transmission:-** 
+            > It defines the transmission mode between two devices on the network whether it is half-duplex, full-duplex, or simplex.
 
         * **Physical Topologies/ Network Topologies :-**
             > Physical Topologies is the Geographical representation of linking devices. There are four types of topology in physical layer [Mesh Topology](https://www.computerhope.com/jargon/m/mesh.htm "Mesh Topology"), [Star Topology](https://www.computerhope.com/jargon/s/startopo.htm "Star Topology"), [Ring Topology](https://www.computerhope.com/jargon/r/ringtopo.htm "Ring Topology") and [Bus Topology](https://www.computerhope.com/jargon/b/bustopol.htm "Bus Topology")
@@ -39,7 +38,7 @@
             > Line configuration defines the way how two or more devices can be connected physically.
 
         * **Signals Configuration :-**
-            > In signals configuration, it determines the type of signals used to transmittig the data/ information.
+            > In signals configuration, it determines the type of signals used to transmitting the data/ information.
     
     <br>
 
@@ -53,10 +52,10 @@
 
     <br>
 
-    * Data Link Layer is the second lowest layer of the OSI Model.
-    * This layer provide the functional and procedural means to transfer data between network entities and to detect and possibly correct errors that may occur in the physical layer.
-    * The responsibility of data link layer is when a packet arrives in a network then transmit it to the Host using its MAC address.
-    * Data link layer is divided into two sub layers([Logical Link Control](https://www.geeksforgeeks.org/logical-link-control-llc-protocol-data-unit/ "Logical Link Control") and [Media Access Control](https://www.geeksforgeeks.org/introduction-of-mac-address-in-computer-network/ "Media Access Control"))
+    * Data Link Layer is the second-lowest layer of the OSI Model.
+    * This layer provides the functional and procedural means to transfer data between network entities and to detect and possibly correct errors that may occur in the physical layer.
+    * The responsibility of the data link layer is when a packet arrives in a network then transmits it to the Host using its MAC address.
+    * Data link layer is divided into two sub-layers([Logical Link Control](https://www.geeksforgeeks.org/logical-link-control-llc-protocol-data-unit/ "Logical Link Control") and [Media Access Control](https://www.geeksforgeeks.org/introduction-of-mac-address-in-computer-network/ "Media Access Control"))
 
    <br>
 
@@ -80,8 +79,8 @@
     <br>
 
     * Network Layer is the third lowest layer of the OSI Model.
-    *  The protocols used to route the network traffic are known as Netwok Layer Protocols.
-    * It manages device addressing, track the location of devices on the network.
+    *  The protocols used to route the network traffic are known as Network Layer Protocols.
+    * It manages device addressing, tracks the location of devices on the network.
     * It determines the best path to transfer the data from source to destination based on the network speeds.
     
    <br>
@@ -104,9 +103,9 @@
 
     <br>
 
-    * Transport Layer is fourth layer of the OSI Model.
-    * It check that the messages/ data are transmitted in the order in which they are sent.
-    * It is also ensures that there is no duplication of data.
+    * Transport Layer is the fourth layer of the OSI Model.
+    * It checks that the messages/ data are transmitted in the order in which they are sent.
+    * It also ensures that there is no duplication of data.
     * The layer can be termed as an end-to-end layer as it provides a point-to-point connection between source and destination to deliver the data packages.
     * It is used two protocols layer, [Transmission Control Protocol](https://www.fortinet.com/resources/cyberglossary/tcp-ip "TCP") and [User Datagram Protocol](https://searchnetworking.techtarget.com/definition/UDP-User-Datagram-Protocol "UDP").
     
@@ -131,8 +130,8 @@
 
     <br>
 
-    * The Session Layer is the fifth layer of OSI Model.
-    * It is responsible for establishment of connection.
+    * The Session Layer is the fifth layer of the OSI Model.
+    * It is responsible for the establishment of the connection.
     * It is also maintenance of sessions authentication and also ensures security.
     
    <br>
@@ -156,10 +155,10 @@
 
     <br>
 
-    * The sixth layer of OSI Model is Presentation Layer.
-    * The Presentation Layer is act as a data translator for a network.
+    * The sixth layer of the OSI Model is Presentation Layer.
+    * The Presentation Layer acts as a data translator for a network.
     * This layer is also known as Syntax Layer.
-    * It is mainly concerned with the syntax and symantics of the data exchanged between two devices.
+    * It is mainly concerned with the syntax and semantics of the data exchanged between two devices.
         
    <br>
 
@@ -181,8 +180,8 @@
 
     <br>
 
-    * The Application Layer is the seventh layer of OSI Model.
-    * It deals with the issues such as resouce allocation, network transparency, etc.
+    * The Application Layer is the seventh layer of the OSI Model.
+    * It deals with the issues such as resource allocation, network transparency, etc.
     * This layer provides the network services to the end-users.
         
    <br>
