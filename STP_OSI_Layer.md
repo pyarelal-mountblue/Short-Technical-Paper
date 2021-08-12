@@ -8,7 +8,6 @@
 * OSI Model was developed by the **ISO (International Organization Standardization)** in `1984`.
 * OSI Model is a reference model that describes how the information from software/ browser applications in one computer/ system moves through a physical medium to the software application in another computer.
 * OSI Model consists of seven layers, which are given below:-
-<br>
     ![](https://cdn.educba.com/academy/wp-content/uploads/2019/07/OSI-Model.png "OSI Layers")
 
 <br>
