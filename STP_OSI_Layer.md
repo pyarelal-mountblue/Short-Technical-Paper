@@ -1,6 +1,6 @@
-# **OSI LAYERS**
+# OSI LAYERS
 
-## **` OSI Model:-`**  
+## OSI Model:-  
 
 <br>
 
@@ -14,7 +14,7 @@
 <br>
 
 
-1. ### **`Physical Layer :-`**
+1. ### Physical Layer :-
    ![](https://www.tutorialandexample.com/wp-content/uploads/2020/10/image-202.png "Physical Layer")
 
     <br>
@@ -26,17 +26,17 @@
 
    <br>
 
-    *  ###  `Some functions of a Physical Layer are given below:-`
-        * **Data Transmission:-** 
+    *  ###  Some functions of a Physical Layer are given below:-
+        *  Data Transmission :-
             > It defines the transmission mode between two devices on the network whether it is half-duplex, full-duplex, or simplex.
 
-        * **Physical Topologies/ Network Topologies :-**
+        * Physical Topologies/ Network Topologies :-
             > Physical Topologies is the Geographical representation of linking devices. There are four types of topology in physical layer [Mesh Topology](https://www.computerhope.com/jargon/m/mesh.htm "Mesh Topology"), [Star Topology](https://www.computerhope.com/jargon/s/startopo.htm "Star Topology"), [Ring Topology](https://www.computerhope.com/jargon/r/ringtopo.htm "Ring Topology") and [Bus Topology](https://www.computerhope.com/jargon/b/bustopol.htm "Bus Topology")
 
-        * **Line Configuration :-**
+        * Line Configuration :-
             > Line configuration defines the way how two or more devices can be connected physically.
 
-        * **Signals Configuration :-**
+        * Signals Configuration :-
             > In signals configuration, it determines the type of signals used to transmitting the data/ information.
     
     <br>
@@ -46,7 +46,7 @@
     <br>
     <br>
 
-2. ### **`Data Link Layer :-`**
+2. ### Data Link Layer :-
     ![](https://www.includehelp.com/computer-networks/images/data-link-layer-1.jpg "Data Link Layer")
 
     <br>
@@ -58,21 +58,21 @@
 
    <br>
 
-    *  ###  `Some functions of a Data Link Layer are given below :-`
-        * **Physical Addressing**   
-        * **Farming**
-        * **Error Control**
-        * **Flow Control**
-        * **Access Control**
+    *  ###  Some functions of a Data Link Layer are given below :-
+        * Physical Addressing 
+        * Farming
+        * Error Control
+        * Flow Control
+        * Access Control
 
     <br>
 
     #### `Note :-` For more details [click here](https://www.javatpoint.com/data-link-layer "Data Link Layer").
 
-    <bt>
+    <br>
     <br>
 
-3. ### **`Network Layer :-`**
+3. ### Network Layer :-
     ![](https://static.javatpoint.com/tutorial/computer-network/images/osi-model6.png "Network Layer")
 
     <br>
@@ -84,20 +84,20 @@
     
    <br>
 
-    *  ###  `Some functions of a Network Layer are given below :-`
-        * **Internetworking**
-        * **Logical Addressing**
-        * **Routing**
-        * **Fragmentation**
+    *  ###  Some functions of a Network Layer are given below :-
+        * Internetworking
+        * Logical Addressing
+        * Routing
+        * Fragmentation
     
     <br>
 
     #### `Note :-` For more details [click here](https://www.javatpoint.com/network-layer "Network Layer").
 
-    <bt>
+    <br>
     <br>
 
-4. ### **`Transport Layer :-`**
+4. ### Transport Layer :-
     ![](https://data-flair.training/blogs/wp-content/uploads/sites/2/2021/05/OSI-Modeil-normal-image05.jpg "Transport Layer")
 
     <br>
@@ -110,12 +110,12 @@
     
    <br>
 
-    *  ###  `Some functions of a Transport Layer are given below :-`
-        * **Service-Point Addressing**
-        * **Segmentation and Reassembly**
-        * **Connection Control**
-        * **Error Control**
-        * **Flow Control**
+    *  ###  Some functions of a Transport Layer are given below :-
+        * Service-Point Addressing
+        * Segmentation and Reassembly
+        * Connection Control
+        * Error Control
+        * Flow Control
 
     <br>
 
@@ -124,7 +124,7 @@
     <br>
     <br>
 
-5. ### **`Session Layer :-`**
+5. ### Session Layer :-
     ![](https://www.tutorialandexample.com/wp-content/uploads/2020/10/image-294.png "Session Layer") 
 
     <br>
@@ -135,12 +135,12 @@
     
    <br>
 
-    *  ###  `Some functions of a Session Layer are given below :-`
-        * **Synchronization**
-        * **Dialog Controller**
-        * **Session Establishment**
-        * **Session Maintenance**
-        * **Session Termination**
+    *  ###  Some functions of a Session Layer are given below :-
+        * Synchronization
+        * Dialog Controller
+        * Session Establishment
+        * Session Maintenance
+        * Session Termination
 
     <br>
 
@@ -149,7 +149,7 @@
     <br>
     <br>
 
-6. ### **`Presentation Layer :-`**
+6. ### Presentation Layer :-
     ![](https://www.includehelp.com/computer-networks/images/presentation-layer.jpg "Presentation Layer")
 
     <br>
@@ -161,10 +161,10 @@
         
    <br>
 
-    *  ###  `Some functions of a Presentation Layer are given below :-`
-        * **Translation**
-        * **Compression**
-        * **Encryption**
+    *  ###  Some functions of a Presentation Layer are given below :-
+        * Translation
+        * Compression
+        * Encryption
 
 
     <br>
@@ -174,7 +174,7 @@
     <br>
     <br>
 
-6. ### **`Application Layer :-`**
+6. ### Application Layer :-
     ![](https://www.includehelp.com/computer-networks/images/application-layer.jpg "Application Layer")
 
     <br>
@@ -185,10 +185,10 @@
         
    <br>
 
-    *  ###  `Some functions of a Application Layer are given below :-`
-        * **Mail Services**
-        * **File Transfer, Access and Management**
-        * **Directory Services**
+    *  ###  Some functions of a Application Layer are given below :-
+        * Mail Services
+        * File Transfer, Access and Management
+        * Directory Services
 
 
     <br>
@@ -201,7 +201,7 @@
 ---
 ---
 
-# **`References :-`**
+# **References :-**
 * [https://www.javatpoint.com/osi-model](https://www.javatpoint.com/osi-model)
 * [https://en.wikipedia.org/wiki/OSI_model](https://en.wikipedia.org/wiki/OSI_model)
 * [https://www.geeksforgeeks.org/layers-of-osi-model/](https://www.geeksforgeeks.org/layers-of-osi-model/)
